@@ -1,1 +1,1 @@
-Para rodar, utilizar node contagem-de-palavras
+Para rodar, utilizar: node contagem-de-palavras
